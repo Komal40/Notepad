@@ -2,7 +2,7 @@
 
 This Java Notepad application is built using Swing, providing users with a convenient way to take notes and create to-do lists. It implements essential features such as cut, copy, paste, find/replace, text formatting, and user-friendly controls. The project demonstrates expertise in Java programming, Swing GUI development, and data manipulation.
 
-#Features-
+## Features
 
 Note Taking: Users can create, edit, and save notes within the application.
 
@@ -16,7 +16,7 @@ Find and Replace: Users can search for specific text within their notes and repl
 
 User-Friendly Controls: The application incorporates intuitive controls and shortcuts for ease of use.
 
-#Installation-
+## Installation
 
 Clone the repository: git clone https://github.com/Komal40/Notepad.git
 
@@ -24,7 +24,7 @@ Open the project in your preferred Java IDE.
 
 Build and run the application.
 
-#Usage-
+## Usage
 
 Launch the Java Notepad application.
 
@@ -34,7 +34,7 @@ Use the provided features like cut, copy, paste, find/replace, and text formatti
 
 Save your notes or to-do lists for future access.
 
-#Technologies Used - 
+## Technologies Used 
 Java: Programming language used for the application.
 
 Swing: Java GUI toolkit for building the user interface.
